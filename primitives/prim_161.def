@@ -1,0 +1,18 @@
+# Mutated primitive: small_square.def leg.def 47002993
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 2.639949 2.836153 0
+joint 2.750000 2.750000 0
+joint 2.750000 3.000000 0
+joint 3.000000 2.750000 0
+joint 3.285887 3.028972 0
+spring 0 1
+spring 0 1
+spring 3 1
+spring 3 2
+spring 3 1
+spring 3 2
+spring 3 0
+muscle 4 0 0.500000 0.100000 2.350000

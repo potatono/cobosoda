@@ -1,0 +1,40 @@
+name Simple Diamond
+jointcount 30
+
+gravity	9.8
+springk 3.0
+mass 0.004
+
+# Define joints (joint x y fixed)
+joint 	3.0 	3.0		0 
+joint	3.5		2.5		0  
+joint	3.0		2.0		0  
+joint	2.5		1.5		0  
+joint 	2.0		2.0		0  
+joint	1.5		2.5		0  
+joint 	2.0		3.0		0  
+joint	2.5		3.5		0  
+joint   2.5		2.5		0
+
+# Define springs (spring a b)
+spring	0	1
+spring	1	2
+spring	2	3
+spring  3   4
+spring	4	5
+spring	5	6
+spring	6	7
+spring	7	0
+spring  0	8
+spring	1	8
+spring	2	8
+spring	3	8
+spring	4	8
+spring	5	8
+spring	6	8
+spring	7	8
+spring  0	6
+spring	0	2
+spring	2	4
+spring	4	6
+

@@ -1,0 +1,9 @@
+# Mutated primitive: leg.def triangle.def 21605997
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 3.500000 1.000000 0
+joint 3.750000 1.550000 0
+spring 0 1
+muscle 1 2 0.500000 0.102294 0.790000

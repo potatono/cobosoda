@@ -1,0 +1,14 @@
+# Mutated primitive: small_square.def triangle.def 43122202
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 3.000000 3.000000 0
+joint 2.471791 2.690895 0
+joint 2.750000 3.000000 0
+joint 2.788163 2.682298 0
+spring 0 1
+spring 1 2
+spring 2 0
+spring 3 1
+spring 3 0

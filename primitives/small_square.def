@@ -1,0 +1,21 @@
+name Tiny Square
+jointcount 30
+
+gravity	5
+springk 3.0
+mass 0.0035
+
+# Define joints (joint x y fixed)
+joint 	3.0 	3.0		0
+joint 	2.75	2.75	0
+joint 	2.75	3.0		0
+joint	3.0		2.75	0
+
+# Define springs (spring a b)
+spring	0	1
+spring	1	2
+spring	2	0
+spring  3   1
+spring	3	2
+spring	3	0
+

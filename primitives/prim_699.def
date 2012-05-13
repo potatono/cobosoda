@@ -1,0 +1,8 @@
+# Mutated primitive: triangle.def small_triangle.def 60710327
+jointcount 30
+gravity	0.000000
+springk 3.000000
+mass 0.004000
+joint 3.199291 1.578375 0
+joint 3.500000 0.550000 0
+spring 0 1

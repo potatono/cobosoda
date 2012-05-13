@@ -1,0 +1,25 @@
+# Mutated primitive: square.def leg.def 75134014
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 2.000000 2.000000 0
+joint 2.000000 3.000000 0
+joint 3.000000 2.000000 0
+joint 1.500000 3.000000 0
+joint 1.750000 2.450000 0
+joint 3.000000 3.000000 0
+joint 2.000000 2.000000 0
+spring 0 1
+muscle 5 7 0.500000 0.100000 0.790000
+spring 1 0
+muscle 1 4 0.500000 0.100000 0.790000
+spring 2 1
+spring 2 1
+spring 2 0
+spring 2 5
+spring 2 6
+spring 3 1
+muscle 4 3 0.500000 0.100000 2.350000
+muscle 5 7 0.500000 0.100000 0.790000
+muscle 6 7 0.500000 0.100000 0.790000

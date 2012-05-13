@@ -1,0 +1,23 @@
+# Mutated primitive: small_square.def small_square.def 43661311
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 3.000000 3.000000 0
+joint 2.988567 2.825115 0
+joint 2.750000 3.000000 0
+joint 3.000000 2.750000 0
+joint 2.573223 2.926777 0
+joint 2.926777 2.926777 0
+spring 0 1
+spring 0 1
+spring 1 2
+spring 1 4
+spring 2 0
+spring 3 1
+muscle 3 2 0.914237 0.098969 8.170458
+spring 3 0
+spring 4 0
+spring 5 1
+spring 5 4
+spring 5 0

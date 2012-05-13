@@ -1,0 +1,54 @@
+# Run 40223 Seed 33385080 Mate small_leg.def
+# Run 40684 Seed 38181746 Mate prim_273.def
+# Run 41443 Seed 42457123 Mate prim_514.def
+# Run 41640 Seed 41595022 Mate prim_635.def
+# Run 41655 Seed 97981022 Mate prim_494.def
+# Run 42819 Seed 73397008 Mate prim_654.def
+# Run 43164 Seed 42255208 Mate prim_976.def
+# Run 43824 Seed 42763704 Mate prim_553.def
+# Run 44012 Seed 27695250 Mate winners/wnr_00043390.def
+jointcount 30
+gravity	9.800000
+springk 3.000000
+mass 0.004000
+joint 3.000000 3.000000 0
+joint 2.000000 3.000000 0
+joint 3.104867 1.807926 0
+joint 2.243008 2.169676 0
+joint 1.625598 2.423703 0
+joint 2.000000 2.000000 0
+joint 0.625598 2.423703 0
+joint 1.625598 1.423703 0
+joint 1.125598 1.923703 0
+joint 0.251196 1.847406 0
+joint 1.375598 2.173703 0
+joint 3.064346 3.879352 0
+joint 3.064346 2.465139 0
+joint 3.771452 3.172246 0
+joint 3.064346 3.172246 0
+joint 3.064346 3.525799 0
+spring 0 5
+spring 0 3
+spring 0 11
+spring 1 0
+muscle 1 4 0.777943 0.126948 2.735064
+spring 2 5
+spring 2 1
+muscle 2 0 0.715029 0.562400 0.754076
+muscle 4 5 0.948376 0.199021 1.142796
+muscle 4 8 0.025881 0.542518 4.272813
+spring 4 10
+spring 5 6
+spring 5 1
+spring 6 4
+muscle 6 9 0.777943 0.126948 1.942309
+spring 7 5
+spring 7 6
+muscle 7 4 0.715029 0.562400 0.574796
+muscle 11 12 0.948376 0.199021 1.142796
+spring 11 14
+spring 11 15
+spring 12 0
+spring 13 12
+spring 13 0
+muscle 13 11 0.715029 0.562400 0.535508

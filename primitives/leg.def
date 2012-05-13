@@ -1,0 +1,16 @@
+jointcount 30
+
+gravity	9.8
+springk 3.0
+mass 0.004
+
+# Define joints (joint x y fixed)
+joint	3.25	1.55	0
+joint	3.75	1.55	0
+joint	3.50	1.00	0
+
+# Define springs (spring a b)
+spring	0	1
+muscle	1	2 0.5 0.10 0.79
+muscle	2	0 0.5 0.10 2.35
+

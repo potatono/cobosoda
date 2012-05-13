@@ -1,0 +1,48 @@
+name Simple Worm
+jointcount 30
+
+gravity	5
+springk 3.0
+mass 0.0035
+
+# Define joints (joint x y fixed)
+joint 	3.0 	3.0		0
+joint 	2.75	2.75	0
+joint 	2.75	3.0		0
+joint	3.0		2.75	0
+
+joint	3.25	3.0		0
+joint	3.25	2.75	0
+
+joint	3.5		3.0		0
+joint	3.5		2.75	0
+
+joint	3.75	3.0		0
+joint	3.75	2.75	0
+
+# Define springs (spring a b)
+spring	0	1
+spring	1	2
+muscle	2	0	0.5 0.25 1.57
+muscle	3   1	0.5 0.25 0
+spring	3	2
+spring	3	0
+
+muscle	4	0	0.5	0.25 0
+spring	4	5
+muscle	5	3	0.5 0.25 1.57
+spring	5	0
+spring	4	3
+
+muscle	6	4	0.5 0.25 2.36
+spring	6	7
+muscle	7	5	0.5 0.25 3.14
+spring	6	5
+spring	7	4
+
+muscle	8	6	0.5 0.25 3.14
+spring	8	9
+muscle	9	7	0.5 0.25 2.36
+spring	8	7
+spring	9	6
+
